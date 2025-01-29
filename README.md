@@ -7,6 +7,7 @@
 ![Rikelmy Rabelo GitHub stats](https://github-readme-stats.vercel.app/api?username=RikelmyRabelo&show_icons=true&theme=tokyonight)
 
 
+
 ## Tecnologias Estudadas
 
 <div style="display: inline_block"><br/>
