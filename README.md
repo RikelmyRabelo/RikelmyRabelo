@@ -14,6 +14,8 @@
     <img alingn="center" alt ="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/">
     <img alingn="center" alt ="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img alingn="center" alt ="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alingn="center" alt ="Blazor" src="https://img.shields.io/badge/blazor-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    
 </div><br/>
 
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia :)
