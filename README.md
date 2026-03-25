@@ -1,6 +1,5 @@
 ### Olá, me chamo Rikelmy Rabelo ☺️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikelmy-rabelo-004195265/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rabelorikelmy/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598970212928)
 
@@ -15,6 +14,8 @@
     <img alingn="center" alt ="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img alingn="center" alt ="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alingn="center" alt ="Blazor" src="https://img.shields.io/badge/blazor-005C84?style=for-the-badge&logo=blazor&logoColor=white">
+    <img alingn="center" alt ="Bootstrap" src="https://img.shields.io/badge/Bootstrap-005C84?style=for-the-badge&logo=Bootstrap&logoColor=white">
+     <img alingn="center" alt ="Git" src="https://img.shields.io/badge/Git-005C84?style=for-the-badge&logo=Git&logoColor=white">
     
 </div><br/>
 
